@@ -1,2 +1,3 @@
-# getting-data-xroot
-Using the xroot protocol to access very large datasets
+# Getting Data with XRootD
+
+Use the [XRoot protocol](http://xrootd.org/) to access very large datasets
